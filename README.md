@@ -119,9 +119,46 @@ Code    |      Description      |      Author      |      |
 | [Track Model Performance](https://app.wandb.ai/lavanyashukla/visualize-models/reports/Track-Model-Performance--Vmlldzo1NTk2MA)  | How to train T5 on SQUAD with Transformers and Nlp | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://www.kaggle.com/lavanyashukla01/better-models-faster-with-weights-biases) |
 Code    |      Description      |      Author      |      |
 |:----------|:-------------|:-------------|------:|
+| [Visualize models in TensorBoard with Weights and Biases](https://app.wandb.ai/sayakpaul/tensorboard-integration-partII/reports/Visualize-models-in-TensorBoard-with-Weights-and-Biases--Vmlldzo2MzE2Mg)  | How to train T5 on SQUAD with Transformers and Nlp | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Log ROC, PR curves and Confusion Matrices with W&B](https://app.wandb.ai/lavanyashukla/vega-plots/reports/Log-ROC%2C-PR-curves-and-Confusion-Matrices-with-W%26B--Vmlldzo3NzQ3MQ)  | How to train T5 on SQUAD with Transformers and Nlp | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1959tqn82yyjanOOZmCm4tDUI_iWSFe-W) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Visualizing Molecular Structure with Weights & Biases](https://app.wandb.ai/nbaryd/Corona-Virus/reports/Visualizing-Molecular-Structure-with-Weights-%26-Biases--Vmlldzo2ODA0Mw)  | In this post I'll show you how to use wandb.Molecule, to visualize molecular data with Weights and Biases. | [Nicholas Bardy](https://app.wandb.ai/nbaryd) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Visualize Model Predictions](https://app.wandb.ai/lavanyashukla/visualize-predictions/reports/Visualize-Model-Predictions--Vmlldzo1NjM4OA)  | How to train T5 on SQUAD with Transformers and Nlp | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla/visualize-predictions/reports/Visualize-Model-Predictions--Vmlldzo1NjM4OA) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Use Pytorch Lightning with Weights & Biases](https://app.wandb.ai/cayush/pytorchlightning/reports/Use-Pytorch-Lightning-with-Weights-%26-Biases--Vmlldzo2NjQ1Mw)  | How to train T5 on SQUAD with Transformers and Nlp | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GHWwfzAsWx_Q1paw73hngAvA7-U9QHi-) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Evaluating the Impact of Sequence Convolutions and Embeddings on Protein Structure Prediction](https://app.wandb.ai/koes-group/protein-transformer/reports/Evaluating-the-Impact-of-Sequence-Convolutions-and-Embeddings-on-Protein-Structure-Prediction--Vmlldzo2OTg4Nw)  | A vignette on recent work using deep learning for protein structure prediction. March 26, 2020.| [Jonathan King](https://app.wandb.ai/jonathanking) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Towards Deep Generative Modeling with W&B](https://app.wandb.ai/ayush-thakur/keras-gan/reports/Towards-Deep-Generative-Modeling-with-W%26B--Vmlldzo4MDI4Mw)  | In this report, we will learn about the evolution of generative modeling. We'll start with Autoencoders and Variational Autoencoders and then dive into Generative Adversarial Modeling.| [Ayush Thakur](https://app.wandb.ai/ayush-thakur) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ayulockin/deepgenerativemodeling) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Exploring ResNets With W&B](https://app.wandb.ai/cayush/resnet/reports/Exploring-ResNets-With-W%26B--Vmlldzo2NDc4NA)  | Post by Ayush Chaurasia | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s62r_nK4RNd3PIyrAd2H72gvrMElX3hN) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [NeRF – Representing Scenes as Neural Radiance Fields for View Synthesis](https://app.wandb.ai/sweep/nerf/reports/NeRF-%E2%80%93-Representing-Scenes-as-Neural-Radiance-Fields-for-View-Synthesis--Vmlldzo3ODIzMA)  | How to train T5 on SQUAD with Transformers and Nlp | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://arxiv.org/abs/2003.08934) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [How Efficient is EfficientNet?](https://app.wandb.ai/ajayuppili/efficientnet/reports/How-Efficient-is-EfficientNet%3F--Vmlldzo4NTk5MQ)  | Evaluating the EfficientNet Family on a Smaller ImageNet-like Dataset | [Ajay Arasanipalai](https://app.wandb.ai/ajayuppili) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
 | [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
-
-
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
 
 
 
