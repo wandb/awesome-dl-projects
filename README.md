@@ -149,17 +149,37 @@ Code    |      Description      |      Author      |      |
 | [How Efficient is EfficientNet?](https://app.wandb.ai/ajayuppili/efficientnet/reports/How-Efficient-is-EfficientNet%3F--Vmlldzo4NTk5MQ)  | Evaluating the EfficientNet Family on a Smaller ImageNet-like Dataset | [Ajay Arasanipalai](https://app.wandb.ai/ajayuppili) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
 Code    |      Description      |      Author      |      |
 |:----------|:-------------|:-------------|------:|
-| [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+| [Distributed training in tf.keras with W&B](https://app.wandb.ai/sayakpaul/tensorflow-multi-gpu-dist/reports/Distributed-training-in-tf.keras-with-W%26B--Vmlldzo3NzUyNA)  | Explore the ways to distribute your training workloads with minimal code changes and analyze system metrics with Weights and Biases. | [Sayak Paul](https://app.wandb.ai/sayakpaul) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sayakpaul/tf.keras-Distributed-Training) |
 Code    |      Description      |      Author      |      |
 |:----------|:-------------|:-------------|------:|
-| [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+| [Reproducible Models with W&B](https://app.wandb.ai/sayakpaul/reproducible-ml/reports/Reproducible-Models-with-W%26B--Vmlldzo3ODMxNQ)  | Discover simple techniques to make your ML experiments as reproducible as possible. | [Sayak Paul](https://app.wandb.ai/sayakpaul) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sayakpaul/Reproducibility-in-tf.keras-with-wandb) |
 Code    |      Description      |      Author      |      |
 |:----------|:-------------|:-------------|------:|
-| [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+| [Effects of Weight Initialization on Neural Networks](https://app.wandb.ai/sayakpaul/weight-initialization-tb/reports/Effects-of-Weight-Initialization-on-Neural-Networks--Vmlldzo2ODY0NA)  | How to train T5 on SQUAD with Transformers and Nlp | [Lavanya Shukla](https://app.wandb.ai/lavanyashukla) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Faqy6QaOkG-5G31MrYmvcmm079XbfKSv) |
 Code    |      Description      |      Author      |      |
 |:----------|:-------------|:-------------|------:|
-| [Train T5 on TPU](https://github.com/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)  | How to train T5 on SQUAD with Transformers and Nlp | [Suraj Patil](https://github.com/patil-suraj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
-
-
-
-
+| [An Introduction to Image Inpainting using Deep Learning](https://app.wandb.ai/ayush-thakur/image-impainting/reports/An-Introduction-to-Image-Inpainting-using-Deep-Learning--Vmlldzo3NDU0Nw)  | How to train T5 on SQUAD with Transformers and Nlp | [Sayak Paul](https://app.wandb.ai/sayakpaul) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ayulockin/deepimageinpainting) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Distributed Training](https://app.wandb.ai/stacey/estuary/reports/Distributed-Training--Vmlldzo1MjEw)  | Getting started with distributed training in Keras | [Stacey Svetlichnaya](https://app.wandb.ai/stacey) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Curriculum Learning in Nature](https://app.wandb.ai/stacey/keras_finetune/reports/Curriculum-Learning-in-Nature--Vmlldzo1MjcxNw)  | Applying human learning strategies to neural nets on iNaturalist 2017 | [Stacey Svetlichnaya](https://app.wandb.ai/stacey) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Fashion MNIST](https://app.wandb.ai/stacey/fmnist/reports/Fashion-MNIST--Vmlldzo1MjU2Mg)  | Explore various hyperparameters of a CNN trained on Fashion MNIST to identify 10 types of clothing| [Stacey Svetlichnaya](https://app.wandb.ai/stacey) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Classify the Natural World](https://app.wandb.ai/stacey/curr_learn/reports/Classify-the-Natural-World--Vmlldzo1MjY4Ng)  | Training and fine-tuning convolutional networks to identify species beyond ImageNet | [Stacey Svetlichnaya](https://app.wandb.ai/stacey) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Colorizing Black and White Images](https://app.wandb.ai/borisd13/colorizer/reports/Colorizing-Black-and-White-Images--VmlldzozODQ4MQ)  |How can we add realistic color to black & white images? Explore the effect of up-convolutions, weight decay, and deeper architectures. | [Nicholas Bardy](https://app.wandb.ai/nbaryd) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [Text Generation with Sequence Models](https://app.wandb.ai/borisd13/char-RNN/reports/Text-Generation-with-Sequence-Models--VmlldzoxMDk2Ng)  | Explore network architectures and training settings for character-based text generation. Compare RNNs, GRUs, and LSTMS, with different depths, layer widths, and dropout. Also consider the training data length, sequence length, and number of sequences per batch. | [Carey](https://app.wandb.ai/carey) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [RNNs for Video Understanding](https://app.wandb.ai/rchavezj/label_yt_videos/reports/RNNs-for-Video-Understanding--Vmlldzo0MzY4MA)  | Comparing various recurrent models in Pytorch on YouTube videos | [rchavezj](https://app.wandb.ai/rchavezj) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
+Code    |      Description      |      Author      |      |
+|:----------|:-------------|:-------------|------:|
+| [FastText Nanobot for the Transformer Age](https://app.wandb.ai/stacey/fasttext/reports/FastText-Nanobot-for-the-Transformer-Age--Vmlldzo1MjY3Mw)  | Integrate FastText with W&B to visualize incredibly efficient natural language processing| [Stacey Svetlichnaya](https://app.wandb.ai/stacey) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil) |
