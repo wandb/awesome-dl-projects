@@ -1,4 +1,4 @@
-# Awesome Deep Learning Projects
+# Awesome Deep Learning Projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [The Gallery](https://app.wandb.ai/gallery) by Weights & Biases features curated machine learning reports by researchers exploring deep learning techniques, Kagglers showcasing winning models, and industry leaders sharing best practices.
 
