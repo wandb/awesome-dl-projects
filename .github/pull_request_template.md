@@ -11,8 +11,8 @@
 
 - [ ] I have provided the code for the report in one directory. 
 - [ ] The name of the directory is meaningful. Example: simclr-tf2
-- [ ] I have included a `README.md` file with the directory which has ink to the published report.
-- [ ] The `README.md` include instructions for running the code along with my twitter handle, personal website, etc.
+- [ ] I have included a `README.md` file with the directory which has link to the published report.
+- [ ] The `README.md` includes instructions for running the code along with my twitter handle, personal website, etc.
 
 ### W&B Checklist
 
