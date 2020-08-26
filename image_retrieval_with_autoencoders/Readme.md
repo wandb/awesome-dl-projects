@@ -33,7 +33,7 @@ In this report, we approach the image retrieval problem from an `unsupervised pe
 
 ## Reach the authors:
 
-| Name                                         | Twitter                                                 | Github                                                       |
-| -------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| [Aritra Roy Gosthipaty](ariG23498.github.io) | [@ariG23498](https://twitter.com/ariG23498/)            | [ariG23498](https://github.com/ariG23498/)                   |
-| Souradip Chakraborty                         | [@SOURADIPCHAKR18](https://twitter.com/SOURADIPCHAKR18) | [souradip-chakraborty](https://github.com/souradip-chakraborty) |
+| Name                                                  | Twitter                                                 | Github                                                       |
+| ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| [Aritra Roy Gosthipaty](https://arig23498.github.io/) | [@ariG23498](https://twitter.com/ariG23498/)            | [ariG23498](https://github.com/ariG23498/)                   |
+| Souradip Chakraborty                                  | [@SOURADIPCHAKR18](https://twitter.com/SOURADIPCHAKR18) | [souradip-chakraborty](https://github.com/souradip-chakraborty) |
