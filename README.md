@@ -2,7 +2,7 @@
 
 [The Gallery](https://app.wandb.ai/gallery) by Weights & Biases features curated machine learning reports by researchers exploring deep learning techniques, Kagglers showcasing winning models, and industry leaders sharing best practices.
 
-This is a collection of the code that accompanies the reports.
+awesome-dl-projects by wandb is a collection of the code that accompanies the reports.
 
 
 | Report  |      Description      |      Author      |
