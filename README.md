@@ -2,6 +2,8 @@
 
 [The Gallery](https://wandb.ai/gallery) by Weights & Biases features curated machine learning reports by researchers exploring deep learning techniques, Kagglers showcasing winning models, and industry leaders sharing best practices.
 
+:collision: This [hacktoberfest](https://hacktoberfest.digitalocean.com/) we are open for contributions. Check out our [`CONTRIBUTING.md`](https://github.com/wandb/awesome-dl-projects/blob/master/CONTRIBUTING.md) to learn more. :collision:
+
 awesome-dl-projects by wandb is a collection of the code that accompanies the reports.
 
 
