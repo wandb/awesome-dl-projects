@@ -19,7 +19,7 @@ If you are working on an exciting ML/DL project, we would love to feature your w
 1. Create a new issue with a relevant title. Briefly describe the project you are working on in a meaningful manner. Provide links wherever necessary.
 2. We will review the issue and approve the idea if it meets the intermediate or advanced level mark. 
 3. Fork this repo.
-4. Create a PR with a notebook. We have provided a [template for the PR](https://github.com/wandb/awesome-dl-projects/blob/master/.github/pull_request_template.md) that will be auto-generate. 
+4. Create a PR with a notebook. We have provided a [template for the PR](https://github.com/wandb/awesome-dl-projects/blob/master/.github/pull_request_template.md) that will be auto-generated. 
 
 ## What more we have to offer? :star2:
 
