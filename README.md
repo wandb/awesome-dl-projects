@@ -9,6 +9,7 @@ awesome-dl-projects by wandb is a collection of the code that accompanies the re
 
 | Report  |      Description      |      Author      |
 |:----------|:-------------|-------------:|
+| [Survival of the Fittest CNN Model](http://bit.ly/vlga_cnn) [![GitHub stars](github.svg)](https://github.com/ariG23498/GA-hyper-params) | Optimize the hyperparameters of a CNN with Variable Length Genetic Algorithm. | [Aritra Roy Gosthipaty](https://wandb.ai/ariG23498) |
 | [Under the hood of RNNs](https:bitly.com/under_RNN) [![GitHub stars](github.svg)](https://github.com/ariG23498/RNN_Viz) | A NumPy implementation of RNN. Gradients and connectivity has been visualised too. | [Aritra Roy Gosthipaty](https://wandb.ai/ariG23498) |
 | [Under the hood of LSTMs](https:bitly.com/under_LSTM) [![GitHub stars](github.svg)](https://github.com/ariG23498/RNN_Viz) | A NumPy implementation of LSTMs. Difference of architectures and the pros of LSTMs have been discussed. | [Aritra Roy Gosthipaty](https://wandb.ai/ariG23498) |
 | [Get Started with TensorFlow Lite Examples Using Android Studio](https://wandb.ai/ivangoncharov/get-started-with-tensorflow-lite-and-android-studio/reports/Get-Started-with-TensorFlow-Lite-Examples-Using-Android-Studio--VmlldzoyMzQwOTQ?accessToken=2xqo8fswauxy0557d7rnkbkkkgl2serquepwcamw8qg2r0qj2zi9a20r93yns02r) [![GitHub stars](github.svg)](https://github.com/tensorflow/examples) | A step-by-step guide towards running example apps on your phone using Android Studio, TensorFlow Lite, and USB debugging. | [Ivan Goncharov](https://wandb.ai/ivangoncharov) |
